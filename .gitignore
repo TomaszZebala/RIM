@@ -1,0 +1,10 @@
+# Projekt Vivado generowany skryptem - nie wrzucamy
+build/
+
+# Smieci Vivado
+*.jou
+*.log
+*.str
+.Xil/
+NA/
+vivado_pid*.zip
